@@ -1,0 +1,62 @@
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.exe
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.deps.json
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.runtimeconfig.json
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.dll
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.pdb
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.Form1.resources
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.csproj.GenerateResource.cache
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.AssemblyInfoInputs.cache
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.AssemblyInfo.cs
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.csproj.CoreCompileInputs.cache
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.dll
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\refint\Лабораторная работа 1.dll
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.pdb
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.genruntimeconfig.cache
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\ref\Лабораторная работа 1.dll
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.Form2.resources
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.Form3.resources
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.MainForm.resources
+C:\Users\Илья Кряжов\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.NameForm1.resources
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.exe
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.deps.json
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.runtimeconfig.json
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.dll
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.pdb
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.Form1.resources
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.Form2.resources
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.Form3.resources
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.MainForm.resources
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.NameForm1.resources
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.csproj.GenerateResource.cache
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.AssemblyInfoInputs.cache
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.AssemblyInfo.cs
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.csproj.CoreCompileInputs.cache
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.sourcelink.json
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.dll
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\refint\Лабораторная работа 1.dll
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.pdb
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.genruntimeconfig.cache
+C:\Users\Илья Кряжов\source\repos\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\ref\Лабораторная работа 1.dll
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.exe
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.deps.json
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.runtimeconfig.json
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.dll
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.pdb
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.Form1.resources
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.Form2.resources
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.Form3.resources
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.MainForm.resources
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.NameForm1.resources
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.csproj.GenerateResource.cache
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.AssemblyInfoInputs.cache
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.AssemblyInfo.cs
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.csproj.CoreCompileInputs.cache
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.sourcelink.json
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.dll
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\refint\Лабораторная работа 1.dll
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.pdb
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.genruntimeconfig.cache
+C:\Users\Илья Кряжов\Desktop\KGB\Лабораторная работа 1\obj\Debug\net8.0-windows\ref\Лабораторная работа 1.dll
